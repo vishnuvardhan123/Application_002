@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Application_002" duration-ms="30951" started-at="2020-04-25T11:28:57 IST" finished-at="2020-04-25T11:29:28 IST">
+    <groups>
+    </groups>
+    <test name="BankingTest" duration-ms="30951" started-at="2020-04-25T11:28:57 IST" finished-at="2020-04-25T11:29:28 IST">
+      <class name="com.application.TestCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.application.TestCases.TC_AddCustomerTest_003@4d41cee]" name="setup" is-config="true" duration-ms="9567" started-at="2020-04-25T11:28:57 IST" finished-at="2020-04-25T11:29:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.application.TestCases.TC_AddCustomerTest_003@4d41cee]" name="addNewCustomer" duration-ms="20084" started-at="2020-04-25T11:29:07 IST" finished-at="2020-04-25T11:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.application.TestCases.TC_AddCustomerTest_003@4d41cee]" name="teardown" is-config="true" duration-ms="1225" started-at="2020-04-25T11:29:27 IST" finished-at="2020-04-25T11:29:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.application.TestCases.TC_AddCustomerTest_003 -->
+    </test> <!-- BankingTest -->
+  </suite> <!-- Application_002 -->
+</testng-results>
